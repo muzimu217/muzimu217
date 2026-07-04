@@ -32,12 +32,6 @@
 
 <br/>
 
-<!-- GitHub 统计 -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muzimu217&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzimu217&layout=compact&theme=github_dark&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=6&card_width=320" />
-
-<br/>
-
 <!-- 连续提交统计 -->
 <img src="https://streak-stats.demolab.com/?user=muzimu217&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 
