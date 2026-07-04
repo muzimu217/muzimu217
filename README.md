@@ -1,1 +1,59 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL2NhcHN1bGUtcmVuZGVyLnZlcmNlbC5hcHAvYXBpP3R5cGU9c2xpY2UmY29sb3I9MDAwMDAwMDAmaGVpZ2h0PTEyMCZzZWN0aW9uPWhlYWRlciZ0ZXh0PUhpISBJJ20g5pyo5a2Q5pyoMjE3JmZvbnRTaXplPTcwJmZvbnRDb2xvcj01OGE2ZmYmYW5pbWF0aW9uPWZhZGVJbiIgLz4KPC9wPgoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vcmVhZG1lLXR5cGluZy1zdmcuZGVtb2xhYi5jb20/Zm9udD1KZXRCcmFpbnMrTW9ubyZzaXplPTI2JnBhdXNlPTEwMDAmY29sb3I9NThhNmZmJmNlbnRlcj10cnVlJnZDZW50ZXI9dHJ1ZSZ3aWR0aD03MDAmaGVpZ2h0PTQ1JmxpbmVzPVdFTENPTUUrVE8rTVkrUEFHRTtGdWxsLVN0YWNrK0RldmVsb3BlcjtPcGVuK1NvdXJjZStFbnRodXNpYXN0IiBhbHQ9IlR5cGluZyBTVkciIC8+CjwvcD4KCjxici8+Cgo8IS0tIEdpdEh1YiBSb2FzdCDor4TliIblvr3nq6AgLS0+CjxwIGFsaWduPSJjZW50ZXIiPgogIDxhIGhyZWY9Imh0dHBzOi8vZ2hzcGhlcmUuY29tL3UvbXV6aW11MjE3P3JlZj1iYWRnZSI+CiAgICA8aW1nIHNyYz0iaHR0cHM6Ly9naHNwaGVyZS5jb20vYXBpL2JhZGdlL211emltdTIxNyIgYWx0PSJHaXRIdWIgUm9hc3Qg6K+E5YiG5b6956ugIiAvPgogIDwvYT4KPC9wPgoKPGJyLz4KCjxwaWN0dXJlPgogIDxzb3VyY2UgbWVkaWE9IihwcmVmZXJzLWNvbG9yLXNjaGVtZTogZGFyaykiIHNyY3NldD0iaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL211emltdTIxNy9tdXppbXUyMTcvb3V0cHV0L2dpdGh1Yi1zbmFrZS1kYXJrLnN2ZyI+CiAgPHNvdXJjZSBtZWRpYT0iKHByZWZlcnMtY29sb3Itc2NoZW1lOiBsaWdodCkiIHNyY3NldD0iaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL211emltdTIxNy9tdXppbXUyMTcvb3V0cHV0L2dpdGh1Yi1zbmFrZS5zdmciPgogIDxpbWcgYWx0PSJnaXRodWIgY29udHJpYnV0aW9uIGdyaWQgc25ha2UgYW5pbWF0aW9uIiBzcmM9Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tdXppbXUyMTcvbXV6aW11MjE3L291dHB1dC9naXRodWItc25ha2Uuc3ZnIj4KPC9waWN0dXJlPgoKPGJyLz4KCjwhLS0g5oqA5pyv5qCI5b6956ugIC0tPgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Hby0wMEFERDg/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdvJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9QeXRob24tMzc3NkFCP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1weXRob24mbG9nb0NvbG9yPXdoaXRlIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0phdmFTY3JpcHQtRjdERjFFP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1qYXZhc2NyaXB0JmxvZ29Db2xvcj1ibGFjayIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9UeXBlU2NyaXB0LTMxNzhDNj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289dHlwZXNjcmlwdCZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvQysrLTAwNTk5Qz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289YyUyQiUyQiZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUG9zdGdyZVNRTC00MTY5RTE/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXBvc3RncmVzcWwmbG9nb0NvbG9yPXdoaXRlIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xpbnV4LUZDQzYyND9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bGludXgmbG9nb0NvbG9yPWJsYWNrIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0RvY2tlci0yNDk2RUQ/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWRvY2tlciZsb2dvQ29sb3I9d2hpdGUiIC8+CjwvcD4KCjxici8+Cgo8IS0tIEdpdEh1YiBTdGF0cyDljaHniYcgLS0+CjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgaGVpZ2h0PSIxODAiIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpP3VzZXJuYW1lPW11emltdTIxNyZzaG93X2ljb25zPXRydWUmdGhlbWU9Z2l0aHViX2RhcmsmYmdfY29sb3I9MEQxMTE3JnRpdGxlX2NvbG9yPTU4YTZmZiZ0ZXh0X2NvbG9yPUZGRkZGRiZpY29uX2NvbG9yPTU4YTZmZiZoaWRlX2JvcmRlcj10cnVlJmNvdW50X3ByaXZhdGU9dHJ1ZSZpbmNsdWRlX2FsbF9jb21taXRzPXRydWUiIC8+CiAgPGltZyBoZWlnaHQ9IjE4MCIgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGkvdG9wLWxhbmdzLz91c2VybmFtZT1tdXppbXUyMTcmbGF5b3V0PWNvbXBhY3QmdGhlbWU9Z2l0aHViX2RhcmsmYmdfY29sb3I9MEQxMTE3JnRpdGxlX2NvbG9yPTU4YTZmZiZ0ZXh0X2NvbG9yPUZGRkZGRiZoaWRlX2JvcmRlcj10cnVlJmxhbmdzX2NvdW50PTgmY2FyZF93aWR0aD0zMjAiIC8+CjwvcD4KCjxici8+Cgo8IS0tIOa0u+WKqOWbvuihqCAtLT4KPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyB3aWR0aD0iNzAwIiBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1hY3Rpdml0eS1ncmFwaC52ZXJjZWwuYXBwL2dyYXBoP3VzZXJuYW1lPW11emltdTIxNyZ0aGVtZT1naXRodWItZGFyayZiZ19jb2xvcj0wRDExMTcmY29sb3I9NThhNmZmJmxpbmU9NThhNmZmJnBvaW50PUZGRkZGRiZoaWRlX2JvcmRlcj10cnVlJmFyZWE9dHJ1ZSIgLz4KPC9wPgoKPGJyLz4KCjwhLS0g6K6/5a6i6K6h5pWw5ZmoIC0tPgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iaHR0cHM6Ly9rb21hcmV2LmNvbS9naHB2Yy8/dXNlcm5hbWU9bXV6aW11MjE3JmNvbG9yPTU4YTZmZiZzdHlsZT1mbGF0LXNxdWFyZSZsYWJlbD1Qcm9maWxlK1Zpc2l0b3JzIiAvPgo8L3A+Cgo8YnIvPgoKLS0tCgojIyMg8J+TiiBDdXJyZW50IFByb2plY3RzICYgSW50ZXJlc3RzCjxwIGFsaWduPSJjZW50ZXIiPgogIPCfmoAgT3BlblRlbkJhc2UgLSBEaXN0cmlidXRlZCBEYXRhYmFzZSBTeXN0ZW08YnIvPgogIPCflKcgRGF0YWJhc2UgRGV2ZWxvcG1lbnQgJiBPcHRpbWl6YXRpb248YnIvPgogIPCfkKcgTGludXggU3lzdGVtIEFkbWluaXN0cmF0aW9uPGJyLz4KICDwn5OmIFBhY2thZ2UgQnVpbGRpbmcgKFJQTS9ERUIpPGJyLz4KPC9wPgoKLS0tCgojIyMg8J+knSBMZXQncyBDb25uZWN0CjxwIGFsaWduPSJjZW50ZXIiPgogIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9tdXppbXUyMTciPgogICAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0SHViLW11emltdTIxNy0xODE3MTc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdpdGh1YiZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPC9hPgo8L3A+Cgo8YnIvPgoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGk+IkNvZGUgaXMgcG9ldHJ5LCBkZWJ1ZyBpcyB0aGUgY3JpdGlxdWUuIjwvaT4KPC9wPgoKPC9kaXY+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58a6ff&height=120&section=header&fontSize=0" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B;I'm+%E6%9C%A8%E5%AD%90%E6%9C%A8217;Welcome+to+my+GitHub" alt="Typing SVG" />
+
+<br/>
+
+<!-- GitHub Roast 评分卡片 -->
+<a href="https://ghsphere.com/u/muzimu217?ref=badge">
+  <img src="https://ghsphere.com/api/card/muzimu217?theme=dark" alt="GitHub Roast" />
+</a>
+
+<br/>
+
+<!-- 贪吃蛇贡献动画（由 snake.yml 自动生成到 output 分支） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muzimu217/muzimu217/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muzimu217/muzimu217/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/muzimu217/muzimu217/output/github-snake.svg" />
+</picture>
+
+<br/>
+
+<!-- 技术栈 -->
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br/>
+
+<!-- GitHub 统计 -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muzimu217&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzimu217&layout=compact&theme=github_dark&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=6&card_width=320" />
+
+<br/>
+
+<!-- 活动图表 -->
+<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=muzimu217&theme=github-dark&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&area=true" />
+
+<br/>
+
+<!-- 访客计数（由 profile-views.yml 自动更新） -->
+<img src="./profile_views_badge.svg" alt="visits" />
+
+<br/>
+
+---
+
+<a href="https://github.com/muzimu217">
+  <img src="https://img.shields.io/badge/GitHub-muzimu217-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58a6ff&height=120&section=footer&fontSize=0" width="100%" />
+
+</div>
