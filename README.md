@@ -49,6 +49,23 @@
 
 ---
 
+### 🚀 Featured Project
+
+<a href="https://github.com/muzimu217/ui-design-agent-kit">
+  <img src="https://img.shields.io/badge/UI_Design_Agent_Kit-口语需求_→_可验收界面-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="UI Design Agent Kit" />
+</a>
+
+**让 AI 先学最好的界面，再交付有证据的产品。**
+
+先查真实参考 → 冻结计划（你确认才动工）→ 设计契约 → 实现 → 真实浏览器截图验收。
+
+- 🎮 [在线展厅](https://agent.kcos.club/)：11 个案例，2 个 3D demo 可直接玩
+- 📦 [ui-design-agent-kit](https://github.com/muzimu217/ui-design-agent-kit)：`npm run prompt:build:lean` 一键导出给任何 AI 宿主
+
+<br/>
+
+---
+
 ### 📬 Contact Me
 
 <a href="mailto:opensource-club@kcos.club">
