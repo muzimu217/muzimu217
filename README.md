@@ -1,88 +1,34 @@
-<div align="center">
+# 你好，我是李枨 (blackEvil217) 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58a6ff&height=120&section=header&fontSize=0" width="100%" />
+> **OpenTenBase 年度校园大使** · 电子科技大学成都学院 开放原子开源社团 社长
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B;I'm+muzimu217;Welcome+to+my+GitHub" alt="Typing SVG" />
+**开源数据库 & AI Agent 方向的学生开发者。** 过去一年在 GitHub 留下 **3689 次贡献**：代码提交覆盖 **42 个仓库**、PR 覆盖 **36 个仓库**。
 
-<br/>
+- 🔭 主导项目：基于 OpenTenBase 的**战略任务指标管理系统**（前后端 + 全平台发行版打包，独立承担 80% 开发）
+- 🌱 深究方向：开源数据库内核与落地应用 · AI Agent 工具链
+- 🏜️ MySQL 8.0 OCP 管理员/开发者双认证 · 腾讯犀牛鸟官方认证 · 蓝桥杯省三等奖
+- 📫 联系：1278844978@qq.com
 
-<!-- GitHub Roast 评分卡片 -->
-<a href="https://ghsphere.com/u/muzimu217?ref=badge">
-  <img src="https://ghsphere.com/api/card/muzimu217?theme=dark" alt="GitHub Roast" />
-</a>
+## 🧰 精选项目
 
-<br/>
+| 项目 | 说明 |
+|---|---|
+| [ui-design-agent-kit](https://github.com/muzimu217/ui-design-agent-kit) ⭐19 | UI/UX Agent 的提示词工具包：弹簧物理、工具路由、设计契约与证据化验证 |
+| [OpenTenBase-Packages](https://github.com/muzimu217/OpenTenBase-Packages) ⭐3 | OpenTenBase 全平台发行版：15+ Linux 发行版 DEB/RPM，x86_64 & ARM64，多版本共存 |
+| [ocusage](https://github.com/muzimu217/ocusage) ⭐7 | OpenCode Go 套餐额度查询：限额用量、剩余额度与重置倒计时 |
+| [pi-desktop-session-import](https://github.com/muzimu217/pi-desktop-session-import) ⭐2 | PI-Desktop 会话统一导入插件（ZCode / WorkBuddy / Claude Code / Codex / OpenCode / Pi） |
+| [DeliverKit](https://github.com/muzimu217/DeliverKit) | AI 交付大脑：把一个产品合法打包进 Linux / Windows / 苹果 / 鸿蒙各生态的 MCP 编排工具 |
+| [email-ticket-system](https://github.com/muzimu217/email-ticket-system) | 开源邮件客服工单系统（Next.js + Supabase + Brevo） |
 
-<!-- 贪吃蛇贡献动画（由 snake.yml 自动生成到 output 分支） -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muzimu217/muzimu217/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muzimu217/muzimu217/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/muzimu217/muzimu217/output/github-snake.svg" />
-</picture>
+## 🤝 开源贡献
 
-<br/>
+- **[OpenTenBase](https://github.com/OpenTenBase/OpenTenBase)**（分布式 HTAP 数据库）：15 个 PR —— 内核崩溃修复、OpenSSL 3.0 构建修复、OpenTelemetry 可观测方案、pgvector + AI 集成示例
+- **[IvorySQL](https://github.com/IvorySQL/IvorySQL)**（Oracle 兼容 PostgreSQL）：12 个 PR
+- **[linyaps](https://github.com/OpenAtom-Linyaps/linyaps)**（开放原子开源项目）：12 个 PR
+- **[PI-Desktop](https://github.com/vastsa/PI-Desktop)**：主仓库与官方插件市场仓库的主要贡献者（28 个 PR）
+- 腾讯云 [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) 90 分钟挑战赛 · 多个 awesome 社区榜单收录贡献
 
-<!-- 技术栈 -->
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+## 📊 GitHub 统计
 
-<br/>
-
-<!-- 连续提交统计 -->
-<img src="https://streak-stats.demolab.com/?user=muzimu217&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-
-<br/>
-
-<!-- 活动图表 -->
-<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=muzimu217&theme=github-dark&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&area=true" />
-
-<br/>
-
-<!-- 访客计数（由 profile-views.yml 自动更新） -->
-<img src="./profile_views_badge.svg" alt="visits" />
-
-<br/>
-
----
-
-### 🚀 Featured Project
-
-<a href="https://github.com/muzimu217/ui-design-agent-kit">
-  <img src="https://img.shields.io/badge/UI_Design_Agent_Kit-口语需求_→_可验收界面-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="UI Design Agent Kit" />
-</a>
-
-**让 AI 先学最好的界面，再交付有证据的产品。**
-
-先查真实参考 → 冻结计划（你确认才动工）→ 设计契约 → 实现 → 真实浏览器截图验收。
-
-- 🎮 [在线展厅](https://agent.kcos.club/)：11 个案例，2 个 3D demo 可直接玩
-- 📦 [ui-design-agent-kit](https://github.com/muzimu217/ui-design-agent-kit)：`npm run prompt:build:lean` 一键导出给任何 AI 宿主
-
-<br/>
-
----
-
-### 📬 Contact Me
-
-<a href="mailto:opensource-club@kcos.club">
-  <img src="https://img.shields.io/badge/KCOS_OpenSource_Club-opensource--club%40kcos.club-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="OpenSource Club Email" />
-</a>
-&nbsp;
-<a href="https://github.com/muzimu217">
-  <img src="https://img.shields.io/badge/GitHub-muzimu217-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/muzimu217?label=Followers&style=social" />
-<img src="https://img.shields.io/badge/OS-KCOS%20OpenSource%20Club-58a6ff?style=flat-square&logo=opensourceinitiative&logoColor=white" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58a6ff&height=120&section=footer&fontSize=0" width="100%" />
-
-</div>
+![stats](https://github-readme-stats.vercel.app/api?username=muzimu217&show_icons=true&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzimu217&layout=compact&hide_border=true)
