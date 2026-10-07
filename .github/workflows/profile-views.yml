@@ -26,6 +26,8 @@ jobs:
           git config --local user.name "GitHub Action"
           git add views.txt profile_views_badge.svg
           git commit -m "Update profile views" || exit 0
-          git push
+          # 2026-10-05 曾因 GitHub 服务端瞬时 500（remote rejected）推送失败报红；
+          # 每小时重跑本可自愈，加退避重试避免瞬时故障产生失败邮件。
+          git push || { sleep 15; git push; } || { sleep 60; git push; }
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
